@@ -1,1 +1,1 @@
-# zamaki
+README.md
